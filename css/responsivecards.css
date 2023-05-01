@@ -1,0 +1,12 @@
+
+.r-container {
+    display: flex;
+    justify-content: center;
+
+}
+
+.rescard {
+    background: black;
+    width: 220px;
+    height: 400px;
+}
